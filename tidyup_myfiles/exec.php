@@ -148,6 +148,12 @@ const _EXCLUDE_TABLES = array(
 	'zoo_tag',
 	'zoo_version',
 	'zoo_zoofilter_searches',
+	'bf_files',
+	'bf_files_last',
+	'bf_activitylog',
+	'bf_core_hashes',
+	'bf_folders',
+	'bf_folders_to_scan',	
 );
 
 
